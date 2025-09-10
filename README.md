@@ -1,8 +1,8 @@
 <div align="center">
 
  
-<!-- <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" /> -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14,15&height=200&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" /> 
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14,15&height=200&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=15&animation=fadeIn" /> -->
 
 <!--
 <h3 align="center">✨ 안녕하세요! 새로운 도전을 즐기는 프론트엔드 개발자 하진희입니다. ✨</h3>
