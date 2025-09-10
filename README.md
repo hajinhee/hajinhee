@@ -3,7 +3,7 @@
 <!-- https://github.com/kyechan99/capsule-render?tab=readme-ov-file#speech 참고 -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=blinking" />  -->
 <!--<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&customColorList=14,15&height=150&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=25&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />  -->
-<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&customColorList=14,15&height=170&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=30&fontAlign=30,70&fontAlignY=40,60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&customColorList=14,15,18&height=170&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=30&fontAlign=30,70&fontAlignY=40,60&fontColor=ffffff&animation=fadeIn" />
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14,15&height=200&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=15&animation=fadeIn" /> -->
 
