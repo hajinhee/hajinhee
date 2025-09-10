@@ -1,20 +1,16 @@
 <div align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" /> -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=15&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=200&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=30&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 
-<br/>
+ 
+<!-- <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=14,15&height=300&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn" /> -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14,15&height=200&text=👋%20Hi,%20I'm%20Jinhee%20Ha%20-nl-Frontend%20Developer&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=15&animation=fadeIn" />
 
 <!--
 <h3 align="center">✨ 안녕하세요! 새로운 도전을 즐기는 프론트엔드 개발자 하진희입니다. ✨</h3>
-
  <p align="center">
 저는 사용자에게 더 나은 경험을 제공하는 웹 서비스를 만드는 것에 즐거움을 느낍니다.<br/>
 새로운 기술 학습과 문제 해결을 통해 끊임없이 성장하고 있습니다.
 </p> -->
 
-
-<br/>
 <h4 align="center">✨ My Tech Stack ✨</h4>
 
 <p align="center">
