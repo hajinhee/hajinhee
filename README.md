@@ -40,8 +40,8 @@
 
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true" alt="하진희님의 GitHub 통계" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&hide_border=true" alt="가장 많이 사용한 언어" />
+<img src="https://github-readme-stats.vercel.app/api?username=hajinhee&show_icons=true&theme=default&hide_border=true&count_private=true" alt="하진희님의 GitHub 통계" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajinhee&layout=compact&theme=default&hide_border=true" alt="가장 많이 사용한 언어" />
 </p>
 <br/>
 
